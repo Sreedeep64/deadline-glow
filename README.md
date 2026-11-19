@@ -2,6 +2,11 @@
 
 Deadline Glow turns an important deadline into a polished phone lock screen. Set an event, date, focus note, and three short milestones, then download a 1290 × 2796 PNG wallpaper.
 
+## Live project
+
+- Website: https://deadline-glow.vercel.app
+- Source: https://github.com/Sreedeep64/deadline-glow
+
 ## Features
 
 - Live days, hours, minutes, and seconds countdown
